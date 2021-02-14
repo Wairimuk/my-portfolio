@@ -2,7 +2,7 @@
 
 #### {A landing page with my projects and educational qualifications}, {2021}
 
-#### By **{Grace Waiirimu Karuga}**
+#### By **{Grace Wairimu Karuga}**
 
 ## Description
 
