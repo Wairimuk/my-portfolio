@@ -1,3 +1,20 @@
+* {
+  padding: 4px;
+  margin: 4px;
+}
+nav {
+  background-color: lightgray;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+nav li {
+  padding: 10px;
+  margin-left: 10px;
+  font-size: large;
+  font-weight: 500;
+}
 .one ul li {
   font-weight: bold;
 }
