@@ -2,6 +2,9 @@
   padding: 4px;
   margin: 4px;
 }
+body {
+  background-image: url(file:///home/wairimu/Documents/moringa-school-projects/my-portfolio/images/back.jpg);
+}
 nav {
   background-color: lightgray;
 }
@@ -15,7 +18,7 @@ nav li {
   font-size: large;
   font-weight: 500;
 }
-.one ul li {
+.edu ul li {
   font-weight: bold;
 }
 img {
