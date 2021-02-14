@@ -1,6 +1,6 @@
 * {
-  padding: 4px;
-  margin: 4px;
+  padding: 0;
+  margin: 0;
 }
 nav {
   background-color: lightgray;
@@ -16,13 +16,29 @@ nav li {
   font-weight: 500;
 }
 .profile {
+  position: relative;
+  height: 100%;
+  width: 50%;
   float: left;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: gray;
 }
 .profile ul li {
   font-size: large;
   font-weight: bold;
 }
 .profile img {
+  width: 400px;
+  height: 450px;
+}
+.picture {
+  position: relative;
+  height: 100%;
+  width: 50%;
+  float: right;
+}
+.picture img {
   width: 400px;
   height: 450px;
 }
