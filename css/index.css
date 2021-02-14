@@ -1,6 +1,7 @@
 * {
   padding: 2px;
   margin: 2px;
+  background-color: cornsilk;
 }
 nav {
   background-color: rgb(49, 134, 102);
@@ -19,11 +20,11 @@ nav li {
 .profile {
   position: relative;
   height: 100%;
-  width: 50%;
+  width: 45%;
   float: left;
-  font-size: x-large;
+  font-size: large;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-decoration: ;
+  text-align: center;
 }
 .profile ul li {
   font-size: large;
