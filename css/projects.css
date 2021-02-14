@@ -1,9 +1,9 @@
 * {
-  padding: 0;
-  margin: 0;
+  padding: 2px;
+  margin: 2px;
 }
 nav {
-  background-color: rgb(93, 143, 130);
+  background-color: rgb(49, 134, 102);
 }
 nav ul {
   list-style-type: none;
@@ -12,5 +12,6 @@ nav ul {
 nav li {
   padding: 10px;
   margin-left: 10px;
+  border: 8px;
   font-size: large;
   font-weight: 500;

@@ -1,12 +1,9 @@
 * {
-  padding: 4px;
-  margin: 4px;
-}
-body {
-  background-image: url(file:///home/wairimu/Documents/moringa-school-projects/my-portfolio/images/back.jpg);
+  padding: 2px;
+  margin: 2px;
 }
 nav {
-  background-color: lightgray;
+  background-color: rgb(49, 134, 102);
 }
 nav ul {
   list-style-type: none;
@@ -15,13 +12,10 @@ nav ul {
 nav li {
   padding: 10px;
   margin-left: 10px;
+  border: 8px;
   font-size: large;
   font-weight: 500;
 }
 .edu ul li {
   font-weight: bold;
-}
-img {
-  width: 600px;
-  height: 800px;
 }

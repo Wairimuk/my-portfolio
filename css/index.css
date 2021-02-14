@@ -1,6 +1,6 @@
 * {
-  padding: 0;
-  margin: 0;
+  padding: 2px;
+  margin: 2px;
 }
 nav {
   background-color: rgb(49, 134, 102);
@@ -12,6 +12,7 @@ nav ul {
 nav li {
   padding: 10px;
   margin-left: 10px;
+  border: 8px;
   font-size: large;
   font-weight: 500;
 }
@@ -22,8 +23,7 @@ nav li {
   float: left;
   font-size: x-large;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url(file:///home/wairimu/Documents/moringa-school-projects/my-portfolio/images/back.jpg);
-  background-color: rgb(136, 179, 123);
+  text-decoration: ;
 }
 .profile ul li {
   font-size: large;
@@ -37,7 +37,7 @@ nav li {
   position: relative;
   height: 100%;
   width: 50%;
-  float: left;
+  float: right;
 }
 .picture img {
   width: 400px;
